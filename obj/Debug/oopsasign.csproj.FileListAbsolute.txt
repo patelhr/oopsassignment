@@ -1,0 +1,5 @@
+D:\oopsasign\oopsasign\bin\Debug\oopsasign.exe.config
+D:\oopsasign\oopsasign\bin\Debug\oopsasign.exe
+D:\oopsasign\oopsasign\bin\Debug\oopsasign.pdb
+D:\oopsasign\oopsasign\obj\Debug\oopsasign.exe
+D:\oopsasign\oopsasign\obj\Debug\oopsasign.pdb
